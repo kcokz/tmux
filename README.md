@@ -4,7 +4,7 @@
 - Copy to clipboard
 ## Steps to setup
 ### Install tmux-yank
-[Tmux yank intallation guide](https://github.com/tmux-plugins/tmux-yank#manual-installation)
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ### overwrite ~/tmux.conf
 ```
 curl https://raw.githubusercontent.com/kcokz/tmux/main/tmux.conf --output ~/tmux.conf
