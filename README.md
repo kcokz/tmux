@@ -6,4 +6,4 @@
 ### Install tmux-yank
 [Tmux yank intallation guide](https://github.com/tmux-plugins/tmux-yank#manual-installation)
 ### overwrite ~/tmux.conf
-
+curl https://raw.githubusercontent.com/kcokz/tmux/main/tmux.conf --output ~/tmux.conf
