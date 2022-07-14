@@ -9,5 +9,5 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 ### overwrite ~/tmux.conf
 ```
-curl https://raw.githubusercontent.com/kcokz/tmux/main/tmux.conf --output ~/tmux.conf
+curl https://raw.githubusercontent.com/kcokz/tmux/main/tmux.conf --output ~/.tmux.conf
 ```
