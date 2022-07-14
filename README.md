@@ -11,3 +11,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ```
 curl https://raw.githubusercontent.com/kcokz/tmux/main/tmux.conf --output ~/.tmux.conf
 ```
+### refresh
+```
+tmux source-file ~/.tmux.conf
+```
